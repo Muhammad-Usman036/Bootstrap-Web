@@ -1,0 +1,12 @@
+/* 
+body::before{
+    display: block;
+    content: "";
+    height: 160px;
+    background-color: #332D2D;
+   
+} */
+@media(min-width:768px){
+.news-input{
+width: 50%;
+}}
